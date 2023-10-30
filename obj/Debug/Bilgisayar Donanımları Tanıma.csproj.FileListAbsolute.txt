@@ -1,0 +1,12 @@
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\bin\Debug\Bilgisayar Donanımları Tanıma.exe.config
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\bin\Debug\Bilgisayar Donanımları Tanıma.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\bin\Debug\Bilgisayar Donanımları Tanıma.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.csproj.AssemblyReference.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.csproj.SuggestedBindingRedirects.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar_Donanımları_Tanıma.Form1.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar_Donanımları_Tanıma.Properties.Resources.resources
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.csproj.GenerateResource.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.csproj.CoreCompileInputs.cache
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.exe
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar Donanımları Tanıma.pdb
+C:\Users\bekoo\Desktop\DERS\C# Uygulama\Bilgisayar Donanımları Tanıma\Bilgisayar Donanımları Tanıma\obj\Debug\Bilgisayar_Donanımları_Tanıma.Form2.resources
